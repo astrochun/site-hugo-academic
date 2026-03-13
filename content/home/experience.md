@@ -18,14 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Team Lead, Publications & Data Management"
+  title = "Team Lead"
   company = "Princeton University Plasma Physics Laboratory"
   company_url = "https://pppl.gov"
   location = "Tucson, Arizona; Princeton, New Jersey"
   date_start = "2023-04-03"
   date_end = ""
   description = """
-  I led technical deployment of open-access support services.
+  I lead the Publications and Data Management Office and support the Research Security Office.
+  
+  My roles include:
+
+  * Management of the Lab's Open Access and Data Management practices
+  * Management and lead data visualization support services for Lab-wide Business Intelligence
+  * Support the Research Security Office
+  * Maintaining solutions to automate the dissemination of open-access
+    research to the Department of Energy's public access services
+  * Develop tools to track PPPL researchers' scholarly impact
+    through metadata harvesting and data visualization
+  * Product ownership for a Lab-wide review and information management system for
+    emerging risk projects
+  """
 
   title = "Research Data Developer"
   company = "Princeton University Plasma Physics Laboratory"
