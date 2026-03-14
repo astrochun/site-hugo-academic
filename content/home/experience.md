@@ -29,17 +29,18 @@ date_format = "Jan 2006"
   
   My roles include:
 
-  * Management of the Lab's Open Access and Data Management practices
-  * Management and lead data visualization support services for Lab-wide Business Intelligence
-  * Support the Research Security Office
+  * Management of the Lab's Open Access and Data Management program
+  * Management of data visualization support services for Lab-wide Business Intelligence
   * Maintaining solutions to automate the dissemination of open-access
     research to the Department of Energy's public access services
   * Develop tools to track PPPL researchers' scholarly impact
     through metadata harvesting and data visualization
+  * Support the Research Security Office
   * Product ownership for a Lab-wide review and information management system for
     emerging risk projects
   """
 
+[[experience]]
   title = "Research Data Developer"
   company = "Princeton University Plasma Physics Laboratory"
   company_url = "https://pppl.gov"
@@ -51,12 +52,12 @@ date_format = "Jan 2006"
   
   My roles include:
 
-  * Building and developing an ORCiD integration for the management
-    of PPPL researchers' ORCiD profiles using the ORCiD API
   * Developing solutions to automate the dissemination of open-access
     research to the Department of Energy's public access services
   * Develop tools to track PPPL researchers' scholarly impact
     through metadata harvesting and data visualization
+  * Building and developing an ORCiD integration for the management
+    of PPPL researchers' ORCiD profiles using the ORCiD API
   """
 
 [[experience]]
